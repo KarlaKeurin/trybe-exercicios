@@ -1,6 +1,6 @@
 # Meu Portfólio de Exercícios 
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[KarlaKeurin](https://www.linkedin.com/in/karla-keurin-320839173/)_ durante minha trajetória na [Trybe](https://www.betrybe.com/). :rocket:
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por mim durante minha trajetória na [Trybe](https://www.betrybe.com/). :rocket:
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
 
